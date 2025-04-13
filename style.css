@@ -1,0 +1,70 @@
+:root {
+  font-family: 'PT Sans', sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  p {
+    font-family: 'PT Sans', sans-serif;
+
+  }
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  a {
+    text-decoration: none;
+    font-family: 'Tourney', cursive;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 18px;
+    margin-right: 30px;
+    color: black;
+  }
+  img {
+    margin-left: auto;
+  }
+}
+
+.title1 {
+  display: flex;
+}
+
+.core {
+  display: flex;
+}
+
+.react {
+  display: flex;
+}
+
+.handling {
+  display: flex;
+}
+
+h2 {
+  font-family: 'Francois One';
+  font-size: 30px;
+}
+
+p {
+  font-family: 'PT Sans';
+  font-size: 24px;
+}
+
+sup {
+  font-family: 'Farro', sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.cat {
+  background-color: #8f8787ef;
+}
